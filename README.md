@@ -1,4 +1,4 @@
-# FlappyBird
+# FlappyBird - Clone
 Flappy Bird Game for Android
 
 ### Run project
